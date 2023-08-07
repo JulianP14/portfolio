@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 </Link>
                 <Link
                     className="flex justify-between items-center w-40 h-14 px-4 bg-gray-500 ml-[-100px] hover:ml-[-10px] duration-500 rounded-br-md hover:rounded-md"
-                    href={'/parera-julian-cv.pdf'}
+                    href={'/parerajulianresume.pdf'}
                     rel="noreferrer"
                     download={true}
                     target="_blank"
