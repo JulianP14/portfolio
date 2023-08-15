@@ -21,7 +21,7 @@ const Portfolio = () => {
             src: crypfo,
             descrip: 'Cryptos Price Site',
             work: "A website where you can see the top ten cryptocurrencies and their prices. It also allows the users to search for a specific cryptocurrency.",
-            link: 'https://crypfo-realtime-crypto.vercel.app/',
+            link: 'https://crypfo.vercel.app/',
             github: 'https://github.com/JulianP14/crypfo'
         },
         {
@@ -29,7 +29,7 @@ const Portfolio = () => {
             src: todolist,
             descrip: 'To-do List Site',
             work: 'A website where you can jot down future tasks and unfinished tasks. It utilizes localStorage, eliminating the need to worry about manually saving your content.',
-            link: 'https://to-do-list-dv9v2ntwm-julianp14.vercel.app/?vercelToolbarCode=1T1FGxEjVvBKWEL',
+            link: 'https://to-do-list-jp.vercel.app/',
             github: 'https://github.com/JulianP14/to-do-list'
         },
         {
@@ -37,7 +37,7 @@ const Portfolio = () => {
             src: ecommerce,
             descrip: 'Ecommerce with React',
             work: 'An ecommerce website created with CRA that uses Firebase as its DB. It successfully implements shopping functionality and a shopping cart feature. It provides a seamless shopping experience.',
-            link: 'https://react-ecommerce-jp.vercel.app/',
+            link: 'https://jpwatches-ecommerce.vercel.app/',
             github: 'https://github.com/JulianP14/react-ecommerce-jp'
         }
     ]
