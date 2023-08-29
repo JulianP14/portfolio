@@ -3,6 +3,7 @@ import prestame from '../public/assets/portfolio/prestame.png'
 import todolist from '../public/assets/portfolio/todolist.png'
 import ecommerce from '../public/assets/portfolio/ecommercereact.png'
 import crypfo from '../public/assets/portfolio/crypfo.png'
+import inflationapp from '../public/assets/portfolio/inflationapp.png'
 import Link from 'next/link'
 
 const Portfolio = () => {
@@ -34,6 +35,14 @@ const Portfolio = () => {
         },
         {
             id: 4,
+            src: inflationapp,
+            descrip: 'Inflation App Site',
+            work: 'A website where you can calculate what is best: buying a product in one payment or more according to the inflation rate.',
+            link: 'https://inflation-app.vercel.app/',
+            github: 'https://github.com/JulianP14/inflation-app'
+        },
+        {
+            id: 5,
             src: ecommerce,
             descrip: 'Ecommerce with React',
             work: 'An ecommerce website created with CRA that uses Firebase as its DB. It successfully implements shopping functionality and a shopping cart feature. It provides a seamless shopping experience.',
