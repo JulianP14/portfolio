@@ -16,7 +16,6 @@ export default function Home() {
       <Portfolio />
       <Experience />
       <Contact />
-
       <SocialLinks />
     </main>
   )

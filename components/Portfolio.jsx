@@ -37,7 +37,7 @@ const Portfolio = () => {
             id: 4,
             src: inflationapp,
             descrip: 'Inflation App Site',
-            work: 'A website where you can calculate what is best: buying a product in one payment or more according to the inflation rate.',
+            work: 'A website where you can calculate what is best: purchasing a product in one payment or more according to the inflation rate.',
             link: 'https://inflation-app.vercel.app/',
             github: 'https://github.com/JulianP14/inflation-app'
         },
