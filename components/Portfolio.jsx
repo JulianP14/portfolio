@@ -63,22 +63,22 @@ const Portfolio = () => {
             Check out some of my work here:
           </p>
         </div>
-        <div className='flex flex-col items-center gap-16'>
+        <div className='flex flex-col items-center gap-16 '>
           {infoPortfolio.map(({ id, src, descrip, work, link, github }) => (
-            <div className='rounded-lg m-5 flex-col items-center justify-center w-full gap-4 shadow-[0_0_25px_0_rgba(175,175,175,.4)]' key={id}>
+            <div className='rounded-lg m-5 flex-col items-center justify-center w-full gap-4 shadow-[0_0_25px_0_rgba(175,175,175,.4)] max-w-md lg:flex lg:flex-row lg:max-w-[1000px]' key={id}>
               <div className=''>
                 <Image
                   src={src}
                   alt={descrip}
                   width={500}
-                  height={400}
-                  className='rounded-t-lg'
+                  height={550}
+                  className='rounded-t-lg lg:rounded-none lg:rounded-r-lg '
                 />
               </div>
               <div className='flex flex-col items-center'>
                 <div className='pt-2 max-w-lg flex flex-col items-center px-4 ' >
                   <h2 className='text-2xl py-2'>{descrip}</h2>
-                  <p className='text-lg text-center'>{work}</p>
+                  <p className=' text-center'>{work}</p>
                 </div>
                 <div className='flex items-center justify-center'>
                   <div className='flex'>
