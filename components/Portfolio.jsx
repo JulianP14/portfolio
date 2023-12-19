@@ -14,7 +14,7 @@ const Portfolio = () => {
       id: 1,
       src: melarebusco,
       descrip: 'Melarebusco',
-      work: 'An interactive site with three pages which allow the user to calculate inflation rates (A) and taxes (C). It also displays USD exchange rates compared to the Argentine Peso (B)',
+      work: 'An interactive site with three pages which allow the user to calculate inflation rates (A) and taxes (C). It also displays USD exchange rates compared to the Argentine Peso (B).',
       link: 'https://melarebusco.vercel.app/',
       github: "https://github.com/JulianP14/melarebusco"
     },
