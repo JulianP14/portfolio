@@ -1,6 +1,7 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa"
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
+
 import Link from "next/link"
 
 const SocialLinks = () => {
@@ -41,7 +42,7 @@ const SocialLinks = () => {
                 </Link>
                 <Link
                     className="flex justify-between items-center w-40 h-14 px-4 bg-gray-500 ml-[-100px] hover:ml-[-10px] duration-500 rounded-br-md hover:rounded-md"
-                    href={'/parerajulianresume.pdf'}
+                    href={'/assets/parerajulianresume.pdf'}
                     rel="noreferrer"
                     download={true}
                     target="_blank"
