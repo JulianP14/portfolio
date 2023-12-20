@@ -23,7 +23,7 @@ const Portfolio = () => {
       src: prestame,
       descrip: 'Loan Simulator Site',
       work: 'An interactive loan site simulator with multiple pages. The most important one allows the user to ask for a loan.',
-      link: 'https://julianp14.github.io/loan-website-simulator/public/html/home.html',
+      link: 'https://julianp14.github.io/loan-website-simulator/index.html',
       github: 'https://github.com/JulianP14/loan-website-simulator'
     },
     {
