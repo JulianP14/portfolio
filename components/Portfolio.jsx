@@ -18,14 +18,14 @@ const Portfolio = () => {
       link: 'https://melarebusco.vercel.app/',
       github: "https://github.com/JulianP14/melarebusco"
     },
-    {
+    /* {
       id: 2,
       src: prestame,
       descrip: 'Loan Simulator Site',
       work: 'An interactive loan site simulator with multiple pages. The most important one allows the user to ask for a loan.',
       link: 'https://julianp14.github.io/loan-website-simulator/index.html',
       github: 'https://github.com/JulianP14/loan-website-simulator'
-    },
+    }, */
     {
       id: 3,
       src: crypfo,
