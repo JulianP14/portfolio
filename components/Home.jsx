@@ -17,7 +17,7 @@ const Home = () => {
               I'm a Frontend Developer
             </h2>
             <p className="text-gray-500 py-4 max-w-md">
-              I have been studyng and practising Frontend development for more than a year. I love to work on web apps while I learn React, Next.Js and Tailwind.
+              I have been studying and practising Frontend development for more than a year. I love to work on web apps while I learn React, Next.Js and Tailwind.
             </p>
 
             <div>
